@@ -1,0 +1,17 @@
+{
+  "name": "usescopemodules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aakash Goel <se.aakashgoel@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@aakash-goel/devonly-formatter": "0.0.1"
+  },
+  "dependencies": {
+    "@aakash-goel/number-formatter": "*"
+  }
+}
